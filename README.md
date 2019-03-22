@@ -5,6 +5,7 @@ to run application:
 java -jar user-api-0.0.1-SNAPSHOT.jar
 
 Examples of requests:
+
 	Get all users:
 		http://localhost:8080/users/all
 		
